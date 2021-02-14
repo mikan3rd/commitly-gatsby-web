@@ -47,7 +47,7 @@
     "ts-node": "8.10.2",
     "typescript": "3.9.7",
     "typescript-fsa": "3.0.0",
-    "typescript-fsa-reducers": "1.2.1"
+    "typescript-fsa-reducers": "1.2.2"
   },
   "devDependencies": {
     "@types/node": "13.13.14",
